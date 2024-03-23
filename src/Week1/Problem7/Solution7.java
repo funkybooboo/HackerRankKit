@@ -1,3 +1,5 @@
+package Week1.Problem7;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;

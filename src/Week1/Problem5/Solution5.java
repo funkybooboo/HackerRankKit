@@ -1,3 +1,5 @@
+package Week1.Problem5;
+
 import java.io.*;
 import java.util.*;
 
